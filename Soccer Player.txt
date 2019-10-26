@@ -1,0 +1,15 @@
+Lionel Messi 4000000.00 10 5 0 0 1 1 14 Bear Cats
+Cristiano Ronaldo 2100000.00 7 4 0 0 1 2 13 Bear Cats
+Luis Suarez 1500000.00 9 3 0 0 1 47 12 Bear Cats
+Neymar Santos 3680000.00 10 2 1 0 0 3 11 12 Bear Cats
+Sergio Aguero 1140000.00 11 1 2 1 0 4 10 Bear Cats
+Manuel Neuer 700000.00 1 2 3 2 3 5 9 Bear Cats
+Gareth Bale 1500000.00 11 1 2 1 1 6 8 Bear Cats
+Andres Iniesta 5000000.00 6 3 1 2 1 7 7 Bear Cats
+Zlatan Ibrahimovic 1140000.00 10 1 1 3 4 2 6 Bear Cats
+Arjen Robben 9800000.00 10 2 1 1 0 3 5 Bear Cats
+Zachary Newton 3400000.00 6 3 1 1 6 1 4 Bear Cats
+Paul Duncan 2300000.00 8 2 0 1 4 0 6 Bear Cats
+Bobby White 4500000.00 15 1 1 2 3 1 7 Bear Cats
+Blake Lee 1500000.00 17 4 0 0 5 2 8 Bear Cats
+Timmy Turner 2500000.00 20 0 1 2 3 1 9 Bear Cats
